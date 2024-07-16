@@ -7,7 +7,7 @@ This project involves performing data cleaning and exploratory data analysis (ED
 The dataset used in this project is the Titanic dataset, available from [Kaggle](https://www.kaggle.com/c/titanic/data).
 
 ## Files
-- `titanic_eda.py`: Python script for data cleaning and EDA.
+- `TASK2.py`: Python script for data cleaning and EDA.
 - `cleaned_titanic_dataset.csv`: Cleaned dataset after data cleaning process.
 
 ## Requirements
